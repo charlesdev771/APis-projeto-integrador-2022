@@ -1,0 +1,17 @@
+emails = [
+    {
+        'id': 1,
+        'email': 'Sabao',
+        'author': 'sei la'
+    },
+    {
+        'id': 2,
+        'email': 'livro',
+        'author': 'jooj'
+    },
+    {
+        'id': 3,
+        'email': 'filme legal',
+        'author': 'charles'
+    },
+]
